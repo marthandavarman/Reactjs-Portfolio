@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Marthandavarman",
+    "occupation": "Sofware Engineer",
+    "description": "Professional Software Engineer and a Freelancer",
+    "image": "Maddy.jpeg",
+    "bio": "Marthandavarman is an experienced Software Engineer and Developer. And have completed Computer Science Engineering at Kingston Engineering College(Affilitate Anna University),vellore, Tamilnadu, A detailed-oriented, responsible and committed engineer, And have designed, implemented and tested complex web, mobile applications using variety of programming languages and technologies. And also, I'm a quick learner with strong problem-solving, leadership, management and communication skills, comfortable working as a team or individually.Experienced Web Developer with a demonstrated history of working in the internet industry . Skilled in Python (programming Language), ReactJs, React Native , Flutter , MongoDB, Django ,and Complete Web Development( Front-End ,Back-End Development).",
+    "contactmessage": "Get in touch with me to be a part of the Developer Community",
+    "email": "marthandavarman1717@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Vellore",
+      "state": "TamilNadu",
+      "zip": ""
+    },
+    "website": "https://metablogs.vercel.app/",
+    "resumedownload": "https://marthandavarman.github.io/",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/marthandavarman-vivekanandan/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/catch_maddy",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "stackoverflow",
+        "url": "https://twitter.com/catch_maddy",
+        "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/marthandavarman",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Kingston Engineering College,(Anna University)",
+        "degree": "Bachelor's Degree, Computer Science and Engineering",
+        "graduated": "July 2020",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "HCL Technologies",
+        "title": "Software Engineer",
+        "years": "Jan 2021 - Present",
+        "description": "Cyber Security and GRC Services"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Django",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "HTML & CSS",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Next.js + Tailwind CSS Personal Blogging Website",
+        "category": "",
+        "image": "metablogs.png",
+        "url": "https://metablogs.vercel.app/"
+      },
+      {
+        "title": "A complete Integration Of Django FrameWork With Reactjs",
+        "category": "",
+        "image": "react.png",
+        "url": "https://github.com/marthandavarman/React-Django"
+      },
+      {
+        "title": "Django Web -Complete Website for Basic startup.",
+        "category": "",
+        "image": "website.png",
+        "url": "https://github.com/marthandavarman/ThiruMurugan-Deployment"
+      },
+      {
+        "title": "React-Native - A Complete React-Native Guide and Tutorial",
+        "category": "",
+        "image": "React-Native.png",
+        "url": "https://github.com/marthandavarman/React-Native"
+      }
+   
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Worry does not take away tomorrow's troubles",
+        "user": "maddy"
+      },
+      {
+        "text": "It's ok to stand out of the crowd!",
+        "user": "maddy"
+      }
+    ]
+  }
+}
